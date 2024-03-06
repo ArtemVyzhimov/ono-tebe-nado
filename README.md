@@ -1,1 +1,1 @@
-Ono tebe nado?
+https://github.com/ArtemVyzhimov/ono-tebe-nado.git
